@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Ask-me/static/js/main.7e001c5d.js",
+    "main.css": "/Ask-me/static/css/main.fb816310.css",
+    "main.js": "/Ask-me/static/js/main.40e692a0.js",
     "index.html": "/Ask-me/index.html",
-    "main.7e001c5d.js.map": "/Ask-me/static/js/main.7e001c5d.js.map"
+    "main.fb816310.css.map": "/Ask-me/static/css/main.fb816310.css.map",
+    "main.40e692a0.js.map": "/Ask-me/static/js/main.40e692a0.js.map"
   },
   "entrypoints": [
-    "static/js/main.7e001c5d.js"
+    "static/css/main.fb816310.css",
+    "static/js/main.40e692a0.js"
   ]
 }
