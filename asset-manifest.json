@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Ask-me/static/js/main.7e001c5d.js",
+    "index.html": "/Ask-me/index.html",
+    "main.7e001c5d.js.map": "/Ask-me/static/js/main.7e001c5d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7e001c5d.js"
+  ]
+}
